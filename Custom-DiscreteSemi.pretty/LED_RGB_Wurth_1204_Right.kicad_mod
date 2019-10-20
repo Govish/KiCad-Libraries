@@ -1,4 +1,4 @@
-(module LED_RGB_Wurth_1204_Right (layer F.Cu) (tedit 5DAA9AE6)
+(module LED_RGB_Wurth_1204_Right (layer F.Cu) (tedit 5DACA941)
   (solder_mask_margin 0.0508)
   (fp_text reference D4 (at 0 -1.805) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -20,7 +20,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
-  (model "D:/Documents/KiCad Libraries/packages3d/LED_RGB_Wurth_1204_Right.stp"
+  (model :CUSTOM_3D:LED_RGB_Wurth_1204_Right.stp
     (offset (xyz 0 0.25 0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

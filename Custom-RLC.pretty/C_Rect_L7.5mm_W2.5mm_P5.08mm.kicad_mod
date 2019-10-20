@@ -1,4 +1,4 @@
-(module C_Rect_L7.5mm_W2.5mm_P5.08mm (layer F.Cu) (tedit 5D981817)
+(module C_Rect_L7.5mm_W2.5mm_P5.08mm (layer F.Cu) (tedit 5DACAB3C)
   (fp_text reference REF** (at 0 2.54) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -11,7 +11,7 @@
   (fp_line (start 2.999999 1.25) (end -2.999999 1.25) (layer F.SilkS) (width 0.254))
   (pad 1 thru_hole circle (at -2.54 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.54 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
-  (model "D:/Documents/KiCad Libraries/packages3d/C_Rect_L7.5mm_W2.5mm_P5.08mm.stp"
+  (model :CUSTOM_3D:C_Rect_L7.5mm_W2.5mm_P5.08mm.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))

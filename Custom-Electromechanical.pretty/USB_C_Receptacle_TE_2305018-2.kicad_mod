@@ -1,4 +1,4 @@
-(module USB_C_Receptacle_TE_2305018-2 (layer F.Cu) (tedit 5DA7E969)
+(module USB_C_Receptacle_TE_2305018-2 (layer F.Cu) (tedit 5DACAA5E)
   (solder_mask_margin 0.0508)
   (fp_text reference J1 (at -0.028 0) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -47,7 +47,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
-  (model "D:/Documents/KiCad Libraries/packages3d/c-2305018-2-a-3d.stp"
+  (model :CUSTOM_3D:C-2305018-2-a-3d.stp
     (offset (xyz 0 -3.05 1.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
