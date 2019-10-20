@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PACDN042Y3R
+D 8V Clamp  Ipp Tvs Diode Surface Mount SOT-23-3 (TO-236)
+K 8V Clamp  Ipp Tvs Diode Surface Mount SOT-23-3 (TO-236) ON Semiconductor PACDN042Y3R
+F https://www.onsemi.com/pub/Collateral/PACDN042-D.PDF
+$ENDCMP
+#
+$CMP SESDONCAN1LT1G
+D 50V Clamp 3A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-3 (TO-236)
+K 50V Clamp 3A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-3 (TO-236) ON Semiconductor SESDONCAN1LT1G
+F https://www.onsemi.com/pub/Collateral/ESDONCAN1-D.PDF
+$ENDCMP
+#
+$CMP SQJ479EP
+D N-MOSFET transistor
+K transistor NMOS N-MOS N-MOSFET
+F http://www.vishay.com/docs/75129/sqj479ep.pdf
+$ENDCMP
+#
+$CMP Wurth_155124M173200
+D LED RGB CLEAR 1204 SMD R/A
+K LED RGB CLEAR 1204 SMD R/A DIODE
+F https://katalog.we-online.de/led/datasheet/155124M173200.pdf
+$ENDCMP
+#
+#End Doc Library

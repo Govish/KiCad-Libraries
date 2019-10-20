@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SQJ479EP
+D N-MOSFET transistor
+K transistor NMOS N-MOS N-MOSFET
+F http://www.vishay.com/docs/75129/sqj479ep.pdf
+$ENDCMP
+#
+$CMP STUSB4500
+D USB Controller USB PD I²C Interface 24-QFN (4x4)
+K USB Controller USB PD I²C Interface 24-QFN (4x4) ST STUSB4500
+F https://www.st.com/resource/en/datasheet/stusb4500.pdf
+$ENDCMP
+#
+#End Doc Library
