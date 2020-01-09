@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP P82B715
+D IC REDRIVER I2C 1CH 8SOIC
+K IC REDRIVER I2C 1CH 8SOIC TI P82B715
+F http://www.ti.com/lit/ds/symlink/p82b715.pdf
+$ENDCMP
+#
 $CMP STUSB4500
 D USB Controller USB PD I²C Interface 24-QFN (4x4)
 K USB Controller USB PD I²C Interface 24-QFN (4x4) ST STUSB4500
