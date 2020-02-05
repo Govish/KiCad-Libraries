@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AOD514
+D N-MOSFET transistor
+K transistor NMOS N-MOS N-MOSFET
+F http://www.vishay.com/docs/75129/sqj479ep.pdf
+$ENDCMP
+#
+$CMP NTR3C21NZT1G
+D N-MOSFET transistor
+K transistor NMOS N-MOS N-MOSFET
+F http://www.vishay.com/docs/75129/sqj479ep.pdf
+$ENDCMP
+#
 $CMP PACDN042Y3R
 D 8V Clamp  Ipp Tvs Diode Surface Mount SOT-23-3 (TO-236)
 K 8V Clamp  Ipp Tvs Diode Surface Mount SOT-23-3 (TO-236) ON Semiconductor PACDN042Y3R

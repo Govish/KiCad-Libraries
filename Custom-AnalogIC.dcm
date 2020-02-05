@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FSA3157P6X
+D Single SPDT Low-Voltage Analog Switch or 2:1 Multiplexer/De-Multiplexer Bus Switch, 10Ohm Ron, SC-70-6
+K CMOS Analog Switch
+F https://www.fairchildsemi.com/datasheets/NC/NC7SB3157.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G3157DCK3
+D Single SPDT Low-Voltage Analog Switch or 2:1 Multiplexer/De-Multiplexer Bus Switch, 10Ohm Ron, SC-70-6
+K CMOS Analog Switch
+F https://www.fairchildsemi.com/datasheets/NC/NC7SB3157.pdf
+$ENDCMP
+#
+$CMP TS3A27518E
+D IC MUX/DEMUX 1X2 24TSSOP 6 Circuit IC Analog Switch 2:1 6.2Ohm 24-TSSOP
+K IC MUX/DEMUX 1X2 24TSSOP 6 Circuit IC Analog Switch 2:1 6.2Ohm 24-TSSOP
+F http://www.ti.com/lit/ds/symlink/ts3a27518e.pdf
+$ENDCMP
+#
+$CMP TS5A3159ADCKR
+D Single SPDT Analog Switch, 1.65-V to 5.5-V Single-Supply Operation, 1Ohm Ron, SC-70-6
+K Analog Switch
+F http://www.ti.com/lit/ds/symlink/ts5a3159a.pdf
+$ENDCMP
+#
+$CMP TS5A3159DCK
+D Single SPDT Analog Switch, 1.65-V to 5.5-V Single-Supply Operation, 1Ohm Ron, SC-70-6
+K Analog Switch SPDT
+F http://www.ti.com/lit/ds/symlink/ts5a3159.pdf
+$ENDCMP
+#
+$CMP TS5A3160DCK
+D Single SPDT Analog Switch, 1.65-V to 5.5-V Single-Supply Operation, 1Ohm Ron, SC-70-6
+K Analog Switch
+F http://www.ti.com/lit/ds/symlink/ts5a3160.pdf
+$ENDCMP
+#
+#End Doc Library

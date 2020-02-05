@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP StepStick-TMC2130
+D TMC2130 SilentStepStick 
+K Silent StepStick Trinamic Waterott Stepper Driver TMC2130
+F https://learn.watterott.com/silentstepstick/
+$ENDCMP
+#
+#End Doc Library

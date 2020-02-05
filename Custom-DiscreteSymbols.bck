@@ -6,12 +6,6 @@ K 8V Clamp  Ipp Tvs Diode Surface Mount SOT-23-3 (TO-236) ON Semiconductor PACDN
 F https://www.onsemi.com/pub/Collateral/PACDN042-D.PDF
 $ENDCMP
 #
-$CMP Rotary_Encoder
-D Rotary encoder, dual channel, incremental quadrate outputs
-K rotary switch encoder
-F ~
-$ENDCMP
-#
 $CMP Rotary_Encoder_RGB
 D Rotary encoder, dual channel, incremental quadrate outputs, RGB LED
 K rotary switch encoder
