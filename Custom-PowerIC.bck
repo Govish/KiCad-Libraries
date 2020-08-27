@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A6211
+D Constant-Current 3-Ampere PWM Dimmable Buck Regulator LED Driver
+K Constant-Current 3-Ampere PWM Dimmable Buck Regulator LED Driver
+F https://www.allegromicro.com/-/media/files/datasheets/a6211-datasheet.ashx
+$ENDCMP
+#
+$CMP BQ76200
+D HIGH-SIDE N-CH FET DRVR 16TSSOP
+K Battery Battery Protection IC Lead Acid 16-TSSOP MOSFET Driver
+F https://www.ti.com/lit/ds/symlink/bq76200.pdf?ts=1596993013394&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FBQ76200
+$ENDCMP
+#
+$CMP LM3488
+D Boost, Flyback, SEPIC Regulator Positive Output Step-Up, Step-Up/Step-Down  DC-DC Controller IC 8-VSSOP
+K Boost, Flyback, SEPIC Regulator Positive Output Step-Up, Step-Up/Step-Down  DC-DC Controller IC 8-VSSOP
+F http://www.ti.com/lit/ds/symlink/lm3488.pdf
+$ENDCMP
+#
+#End Doc Library
