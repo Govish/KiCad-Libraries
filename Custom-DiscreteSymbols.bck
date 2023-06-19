@@ -6,10 +6,22 @@ K transistor NMOS N-MOS N-MOSFET
 F http://www.vishay.com/docs/75129/sqj479ep.pdf
 $ENDCMP
 #
+$CMP CESD3V3AP
+D Dual Zener diode 3.3v
+K diode zener dual
+F https://datasheet.lcsc.com/szlcsc/1811081921_Changjiang-Electronics-Tech-CJ-CESD3V3AP_C70435.pdf
+$ENDCMP
+#
 $CMP HY3606
 D N-MOSFET transistor
 K transistor NMOS N-MOS N-MOSFET
 F https://datasheet.lcsc.com/szlcsc/1809151119_HUAYI-HY3606B_C133396.pdf
+$ENDCMP
+#
+$CMP LED_thermal_pad
+D Light emitting diode
+K LED diode
+F ~
 $ENDCMP
 #
 $CMP NTR3C21NZT1G

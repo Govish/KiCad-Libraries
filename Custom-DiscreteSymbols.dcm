@@ -18,6 +18,10 @@ K transistor NMOS N-MOS N-MOSFET
 F https://datasheet.lcsc.com/szlcsc/1809151119_HUAYI-HY3606B_C133396.pdf
 $ENDCMP
 #
+$CMP NFET_GENERIC
+D Generic NFET not for PCB Designs
+$ENDCMP
+#
 $CMP NTR3C21NZT1G
 D N-MOSFET transistor
 K transistor NMOS N-MOS N-MOSFET

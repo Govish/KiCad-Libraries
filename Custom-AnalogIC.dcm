@@ -6,6 +6,12 @@ K CMOS Analog Switch
 F https://www.fairchildsemi.com/datasheets/NC/NC7SB3157.pdf
 $ENDCMP
 #
+$CMP Generic_Opamp
+D Dual operational amplifier
+K dual opamp
+F ~
+$ENDCMP
+#
 $CMP SN74LVC1G3157DCK3
 D Single SPDT Low-Voltage Analog Switch or 2:1 Multiplexer/De-Multiplexer Bus Switch, 10Ohm Ron, SC-70-6
 K CMOS Analog Switch
