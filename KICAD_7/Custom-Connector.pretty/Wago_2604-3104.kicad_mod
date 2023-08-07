@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (descr "Footprint for Wago_2604-3104")
   (tags "Wago Spring Terminal Block Connector")
-  (attr smd)
+  (attr through_hole)
   (fp_text reference "REF**" (at -9.1 -8.7 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.2) bold))
     (tstamp b508f05c-c435-4b5d-bf5d-9a11a9c1138e)

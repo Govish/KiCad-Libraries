@@ -609,7 +609,7 @@
     (property "Value" "SIRA60DP" (at 5.08 -1.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_SO:PowerPAK_SO-8_Single" (at 5.08 2.54 0)
+    (property "Footprint" "Package_DFN_QFN:PQFN-8-EP_6x5mm_P1.27mm_Generic" (at 5.08 2.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.vishay.com/docs/66777/sira60dp.pdf" (at 0 0 0)

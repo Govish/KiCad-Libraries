@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (descr "Banana Jack Connector Standard Banana Solder Lug")
   (tags "Banana Jack Hole THT")
-  (attr smd)
+  (attr through_hole)
   (fp_text reference "REF**" (at 0 -7 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.2) bold))
     (tstamp 7a3d1e3c-4e79-4ff2-bde5-d21bdaece658)

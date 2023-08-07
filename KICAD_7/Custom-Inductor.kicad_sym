@@ -111,6 +111,10 @@
         (name "2" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )
+      (pin no_connect line (at 0 0 0) (length 1.27) hide
+        (name "1" (effects (font (size 1.27 1.27))))
+        (number "3" (effects (font (size 1.27 1.27))))
+      )
     )
   )
   (symbol "744914122" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
