@@ -15,7 +15,7 @@
     (property "Manufacturer" "Coilcraft" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Part Number" "2014VS-251MED" (at 0 0 0)
+    (property "Part Number" "1212VS-90NMED" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_keywords" "inductor choke coil reactor magnetic" (at 0 0 0)
